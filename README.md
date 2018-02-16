@@ -1,2 +1,2 @@
 # UMA-Token
-UMA Token contact
+UMA Token contract
